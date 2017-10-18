@@ -1,0 +1,12 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "week1": "testcafe chrome week1.js",
+    "week2": "testcafe chrome week2.js"
+  }
+  "devDependencies": {
+    "testcafe": "^0.18.1"
+  }
+}
