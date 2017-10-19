@@ -18,4 +18,4 @@ $ npm run week2
 
 You should see which test pass or fail.
 All test will run on chrome
-> Note that is a test is stuck it will timeout, there is no need to try to shutdown the `test`
+> Note that if a test is stuck it will timeout, there is no need to try to shutdown the `test`
